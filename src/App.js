@@ -10,7 +10,6 @@ import NotFoundPage from "./Components/NotFoundPage/NotFoundPage";
 function App() {
   return (
     <div className="App">
-      <h2>Welcome to my Home.</h2>
       <Navbar></Navbar>
       <Routes>
         <Route path="/home" element={<Home></Home>}></Route>

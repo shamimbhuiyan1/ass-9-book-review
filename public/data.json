@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "comment": "Excelent Book",
+      "name": "Motiur Rahman",
+      "rating": "My rating is 4.5 out of 5 "
+    },
+    {
+      "id": 2,
+      "comment": "Very Much enjoyed",
+      "name": "Nazrul",
+      "rating": "My rating is 4.7 out of 5 "
+    },
+    {
+      "id": 3,
+      "comment": "I had ever read this kind of book,And how genious our national poet is.",
+      "name": "Ayman Bhuiyan",
+      "rating": "My rating is 4.5 out of 5 "
+    },
+    {
+      "id": 4,
+      "comment": "How good writting is this hats of you .",
+      "name": "Jonayed",
+      "rating": "My rating is 4.6 out of 5 "
+    },
+    {
+      "id": 5,
+      "comment": "Now-a-days we can't see this kind of intectual writting",
+      "name": "Arafat",
+      "rating": "My rating is 4.9 out of 5 "
+    },
+    {
+      "id": 6,
+      "comment": "Wow!!!",
+      "name": "Mahin",
+      "rating": "My rating is 4.7 out of 5 "
+    }
+  ]

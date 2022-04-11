@@ -1,0 +1,8 @@
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.book-review{
+    font-size: 40px;
+}

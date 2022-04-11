@@ -1,9 +1,14 @@
 import React from "react";
-
-const BookReview = () => {
+import "./BookReview.css";
+const BookReview = (props) => {
+  const { name, rating, comment } = props.data;
   return (
     <div>
-      <h2>here all book review</h2>
+      <div className="review">
+        <h2>Name: {name}</h2>
+        <h5>Comment: {comment}.</h5>
+        <p>Rating: {rating}</p>
+      </div>
     </div>
   );
 };
