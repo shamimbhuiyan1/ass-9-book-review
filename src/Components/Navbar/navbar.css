@@ -1,0 +1,15 @@
+.nabvar-container {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #db7093;
+    color: white;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav :link{
+
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+}

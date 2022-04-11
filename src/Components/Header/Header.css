@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.header-content{
+
+    width: 50%;
+}
+.header-content h1{
+    text-align: justify;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+
+}
+.header-content p{
+    text-align: justify;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.button{
+    font-size: 20px;
+    color: white;
+    background-color: #db7093;
+    border: 0;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+
+.header img{
+    border-radius: 10px;
+    width:auto;
+
+
+}
