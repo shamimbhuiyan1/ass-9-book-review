@@ -1,7 +1,7 @@
 import React from "react";
 import "./BookReview.css";
-const BookReview = (props) => {
-  const { name, rating, comment } = props.data;
+const BookReview = ({ review }) => {
+  const { name, rating, comment } = review;
   return (
     <div>
       <div className="review">

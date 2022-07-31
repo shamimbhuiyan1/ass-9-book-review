@@ -7,10 +7,10 @@ const Navbar = () => {
     <div className="nabvar-container">
       <h2 style={{ fontSize: "30px" }}>Book Review</h2>
       <nav className="nav">
-        <Link to="/home" style={{ color: "white" }}>
+        <Link to="/" style={{ color: "white" }}>
           Home
         </Link>
-        <Link to="/bookReview" style={{ color: "white" }}>
+        <Link to="/review" style={{ color: "white" }}>
           Review
         </Link>
         <Link to="/dashboard" style={{ color: "white" }}>
